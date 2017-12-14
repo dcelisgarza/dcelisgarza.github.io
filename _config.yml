@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 title: Welcome to Daniel Celis Garza's Homepage!
-#show_downloads: true
+show_downloads: [CV](Daniel_Celis_Garza_resume.pdf)
 google_analytics: true
+
+#<form method="get" action="/source/Daniel_Celis_Garza_resume.pdf">
+#   <button type="submit">CV</button>
+#</form>
